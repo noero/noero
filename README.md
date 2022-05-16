@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @noero
+- 👀 I’m interested in programing, web development and artificial intelligence
+- 🌱 I’m currently learning python
